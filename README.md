@@ -2,4 +2,4 @@
 ## A React-Native + Firebase school project 
 
 
-![alt text](/Capture.jpg)
+![alt text](/Capture.JPG)
